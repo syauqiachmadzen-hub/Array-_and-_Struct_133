@@ -1,3 +1,24 @@
 #include <iostream>
 using namespace std;
 
+struct detailAlamat
+{
+    string desa;
+    string kota:
+
+};
+
+struct orang 
+{
+    string nama;
+    detailAlamat;
+    int umur;
+};
+
+int main ()
+{
+    //Deklarasi variable struct
+    Orang mhs;
+    //mengisi data 
+    
+}
