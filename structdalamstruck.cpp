@@ -20,5 +20,16 @@ int main ()
     //Deklarasi variable struct
     Orang mhs;
     //mengisi data 
+    cout << "Isikan data nama : ";
+    cin >> mhs.nama;
+    cout << "isikan data desa : ";
+    cin >> mhs.desa;
+    cout << "isikan data kota : ";
+    cin >> mhs.kota;
+    cout << "isikan data umur : ";
+    cin >> mhs.umur
+    cout << endl;
+
     
+
 }
