@@ -7,5 +7,10 @@ int main()
     int dataku [5] = {10,20,30,40,50};
     //deklarasi tanpa inisialisasi
     int Datamu[5]  
+
+    //Cara akses (membaca atau mengambil isi array)
+    cout << "isi data kedua : " << dataku[1] << endl;
+    //mengisi array
+    dataku[1 = 200;]
     
 }
